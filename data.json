@@ -15,3 +15,26 @@
         "department": "Web Developer"
     }
 }
+
+[
+    {
+        "id": 1,
+        "quote": "Pag sinabing bawal lumabas, pwede na pala ikaw lumabas",
+        "author": "Kim Chu"
+    },
+    {
+        "id": 2,
+        "quote": "Blah blah",
+        "author": "Lomocho"
+    },
+    {
+        "id": 3,
+        "quote": "W!",
+        "author": "Ludo"
+    },
+    {
+        "id": 4,
+        "quote": "L!",
+        "author": "Lomocho padin"
+    }
+]
